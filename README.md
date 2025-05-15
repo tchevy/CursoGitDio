@@ -1,3 +1,3 @@
 # CursoGitDio
-##Repositerio para laboratorios Git DIO
-###Aula 1
+Repositerio para laboratorios Git DIO
+Aula 1
